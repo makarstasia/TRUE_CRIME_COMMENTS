@@ -13,3 +13,7 @@ ML: Нам нужно разработать бинарный классифик
 
 Датасет из токсичных комментариев с сайтов Двач и Пикабу: [Internet_Movie_Database](https://www.kaggle.com/datasets/blackmoon/russian-language-toxic-comments).  
 
+### Результаты
+Обучена в кач-ве baseline модель LogisticRegression с результатами precision = 0.9545, recall = 0.4090. Улучшена модель с помощью подбора коэффициента регуляризации 
+
+
